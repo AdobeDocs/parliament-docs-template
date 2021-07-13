@@ -1,0 +1,32 @@
+type: navigation
+order: 1
+title: Parliament CLI
+pages:
+  - title: Getting Started
+    url: docs/getting-started.md
+
+  - title: Commands
+    pages:
+      - title: Create
+        url: docs/commands/create.md
+
+      - title: Init
+        url: docs/commands/init.md
+
+      - title: Onboard
+        url: docs/commands/onboard.md
+
+      - title: Validate
+        url: docs/commands/validate.md
+
+      - title: Lint
+        url: docs/commands/lint.md
+
+      - title: Develop
+        url: docs/commands/develop.md
+
+      - title: Build
+        url: docs/commands/build.md
+
+      - title: Serve
+        url: docs/commands/serve.md
