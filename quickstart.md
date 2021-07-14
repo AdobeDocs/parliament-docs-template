@@ -34,4 +34,3 @@ Do not include content that belongs in the overview, including a general descrip
 ## Links to examples
 
 * **Jekyll**. [This SSG](https://jekyllrb.com/docs/) offers a good example of a Quick Start. Note that the setup info is in a separate document, and linked to in the first step.
-{"mode":"full","isActive":false}
