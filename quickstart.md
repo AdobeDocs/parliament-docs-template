@@ -1,4 +1,4 @@
-# How to write a good Quick Start
+# How to write effective Quick Start
 
 Quick Start Guides should be a clear, concise, ordered step-by-step procedure.
 They should describe the easiest way for readers to achieve a result that shows off the capabilities of your product.

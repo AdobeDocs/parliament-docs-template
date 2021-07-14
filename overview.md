@@ -1,4 +1,4 @@
-# How to write a good Overview
+# How to write effective Overview
 
 ## When do I need an overview
 

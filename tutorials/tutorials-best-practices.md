@@ -1,4 +1,4 @@
-# How to write good Tutorials
+# How to write quality Tutorials
 
 Tutorials describe how developers will use your APIs and other services to achieve some end. These tutorials often involve healthy chunks of code and configuration of various services. These are the "tasks" that would be more common in end-user docs.
 

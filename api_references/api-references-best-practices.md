@@ -1,4 +1,4 @@
-# How to write good API References
+# How to write effective API References
 
 The reference section is a collection of short entries, arranged in alphabetical order. This template is for the individual reference entry that you create for a single endpoint.
 
