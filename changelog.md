@@ -1,4 +1,4 @@
-# How to write effective Changelog
+# How to write an effective Changelog
 
 ## What is a changelog?
 

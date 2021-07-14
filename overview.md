@@ -1,8 +1,8 @@
-# How to write effective Overview
-
-## When do I need an overview
+# How to write an effective Overview
 
 Your API documentation should include an overview document. This document tells potential users or buyers what they might want to know before they buy.
+
+## When do I need an overview
 
 Users can install or connect to your service if they are already familiar with it, or if someone else has decided that the team will use this solution. Those readers will go to your Quick Start Guide, or get straight to work.
 
