@@ -1,32 +1,29 @@
 type: navigation
 order: 1
-title: Parliament CLI
+title: Parliament Starter Project
 pages:
-  - title: Getting Started
-    url: docs/getting-started.md
-
-  - title: Commands
+  - title: Overview
+    url: overview.md
+  - title: Quickstart
+    url: quickstart.md
+  - title: Authentication
+    url: authentication.md
+  - title: API Reference
     pages:
-      - title: Create
-        url: docs/commands/create.md
-
-      - title: Init
-        url: docs/commands/init.md
-
-      - title: Onboard
-        url: docs/commands/onboard.md
-
-      - title: Validate
-        url: docs/commands/validate.md
-
-      - title: Lint
-        url: docs/commands/lint.md
-
-      - title: Develop
-        url: docs/commands/develop.md
-
-      - title: Build
-        url: docs/commands/build.md
-
-      - title: Serve
-        url: docs/commands/serve.md
+      - title: API Reference Guide
+        url: api_references/api-references-best-practices.md
+      - title: Example
+        url: api_references/sample.json
+  - title: Tutorials
+    pages:
+      - title: Tutorials Guide
+        url: tutorials/tutorials-best-practices.md
+  - title: Postman Collections
+    pages:
+      - title: Postman Collections Guide & Examples
+        url: postman/postman-best-practices.md
+  - title: FAQs
+    url: faq.md
+  - title: Changelog
+    url: changelog.md
+  
