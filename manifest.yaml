@@ -13,7 +13,7 @@ pages:
       - title: API Reference Guide
         url: api_references/api-references-best-practices.md
       - title: Example
-        url: api_references/sample.json
+        url: api_references/swagger.json
   - title: Tutorials
     pages:
       - title: Tutorials Guide
